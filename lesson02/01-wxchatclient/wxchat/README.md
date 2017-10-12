@@ -4,8 +4,9 @@
 
 ### 2、Demo 的使用步骤
 
-* 1、首先 git clone https://github.com/githubchen001/react-lesson.git
-* 2、cd react-lesson/lesson01/01-flexbox 目录
-* 3、直接打开index.html即可
+* 1、首先 git clone https://github.com/githubchen001/rn-lesson.git
+* 2、cd lesson02/01-wxchatclient/wxchat 目录
+* 3、安装依赖 `yarn install`
+* 4、react-native run-android/run-ios 查看效果
 
 
